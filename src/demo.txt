@@ -1,0 +1,24 @@
+
+🟡 2. Solid Mid-Level Developer
+
+Time: 1–2 years
+
+You become comfortable with:
+
+Microservices
+
+Security (JWT, OAuth2)
+
+Docker, Kubernetes
+
+CI/CD pipelines
+
+Scalability, performance
+
+Caching (Redis)
+
+Message Queues (Kafka/RabbitMQ)
+
+Design patterns
+
+This is where you become productive and independent.
