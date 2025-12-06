@@ -64,5 +64,8 @@ public class StreamDemoCode {
         // noneMatch
         boolean noneNegative = numbers.stream()
                 .noneMatch(n -> n < 0);
+
+
+
     }
 }
